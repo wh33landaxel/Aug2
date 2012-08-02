@@ -1,0 +1,5 @@
+@charset "UTF-8";
+/* CSS Document */
+	body{background-color:#BBB}
+	p{color:blue;font-size:12pt;font-family:"Impact", cursive; background-color:#CCC}
+	li{list-style-image:url(../images/arrow.png)}
